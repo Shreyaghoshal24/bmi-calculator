@@ -4,8 +4,8 @@ A simple application that calculates Body Mass Index (BMI) based on height(m) an
 
 ## Tech Stack
 
-**Client:** React
-**Styles:** Tailwind CSS
+-**Client:** React
+-**Styles:** Tailwind CSS
 
 ## Installation
 
